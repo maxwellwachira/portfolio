@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <MantineProvider
         theme={{
           colorScheme,
-          fontFamily: 'Montserrat, sans-serif'
+          fontFamily: 'Open Sans, sans-serif'
         }}
         withGlobalStyles
         withNormalizeCSS
